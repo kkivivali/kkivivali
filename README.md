@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kkivivali!
+- Newbie Front-End developer
+- Intrested in HTML, SCSS, React and Node
